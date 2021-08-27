@@ -1,1 +1,1 @@
-https://agliullinadi.github.io/fourth/index
+https://agliullinadi.github.io/snake/index
